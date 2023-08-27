@@ -1,0 +1,9 @@
+to get information of your python version open cmd or new terminal(in vscode) and type:
+"python --version"
+
+OR
+
+"python -V"
+
+then  install tkinter library,type this code:
+"pip install tkinter"
